@@ -1,8 +1,8 @@
-#Requirements
+# Requirements
 bass - https://github.com/ARM9/bass (with denim's PR for table support)
 retroarch - https://github.com/libretro/RetroArch
 
-#Instructions
+# Instructions
 to assemble put "Beyond Oasis (U) [!]` on root with filename `beyond.md`
 then run:
 `bass beyond.asm`
